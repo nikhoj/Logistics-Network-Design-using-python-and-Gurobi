@@ -7,3 +7,4 @@ https://doi.org/10.1287/ited.1100.0051cs
 - The data for the case are available -
 https://pubsonline.informs.org/doi/suppl/10.1287/ited.1100.0051cs
 - To access our solution click below link -
+https://github.com/nikhoj/Logistics-Network-Design-using-python-and-Gurobi/blob/master/IISE_Case_solution.pdf
